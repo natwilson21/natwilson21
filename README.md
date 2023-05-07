@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natwilson21
-- 👀 I’m interested in programming games and building projects with SparkFun
+- 👀 I’m interested in programming games and building projects using SparkFun
 - 🌱 I’m currently learning python and continuing to learn C++
 - 💞️ I’m looking to collaborate on creating a game using Unreal Engine 
 - 📫 How to reach me, email: natw2191@gmail.com
